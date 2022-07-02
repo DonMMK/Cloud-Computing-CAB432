@@ -13,4 +13,23 @@
 - Exposing RESTAPIs (data available) backed by SQL data sources
 - New JS, structured APIs and cloud computing  
 
-## JavaScript
+## Transition into JavaScript
+- Check eloquent js
+
+
+## Language Basics
+- Types, Expressions, Control structures, Comparison operators -> pay attention
+- Comparing two varibales -> it's not SAFE
+- JS not a type safe language -> use appropriate operators to avoid errors
+
+
+- Arrays, Inheritance, Funcitonal JS , Modules, Objects
+
+- Equiality operator with Loose equality and inquality operators
+
+- Logical operators work the normal way
+- Use the === not the evil tiwns -> == and !== -> !=
+
+## Structured Types and Functions
+ 
+
