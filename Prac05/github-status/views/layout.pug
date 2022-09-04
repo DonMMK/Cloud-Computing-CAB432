@@ -1,7 +1,13 @@
 doctype html
-html
+html 
   head
-    title= title
+    title GitHub Status
+    link(rel='stylesheet',href='https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css')
     link(rel='stylesheet', href='/stylesheets/style.css')
   body
+    .ui.borderless.main.menu
+      .ui.container
+        a.header.item(href='/')
+        img.logo(src='https://cdn-icons-png.flaticon.com/512/2111/2111432.png')
+        |&nbsp;&nbsp;&nbsp;GitHub Status
     block content
